@@ -79,7 +79,7 @@ Minimum transformation to the canonical schema:
 **What is wrong:**
 - **Apples to Oranges:** The owner is comparing today's advance bookings (101) against last year's month-end total (131). October 2026 has just begun.
 - **We are +62.9% AHEAD:** On 1 October 2025, last year only had **62 room-nights** on the books. Today we have **101**. We are 39 room-nights ahead of last year at the same point in time.
-- **Dropping rates is a mistake:** We already hold 77% of last year's total month volume ($101 / 131$). Last year picked up 69 rooms in-the-month; matching that puts us at 170 rooms (68.5% occupancy vs 52.8% last year). Slashing rates now would dilute ADR and cause early, cheap sell-outs.
+- **Dropping rates is a mistake:** We already hold 77% of last year's total month volume (101 / 131 room-nights). Last year picked up 69 rooms in-the-month; matching that puts us at 170 rooms (68.5% occupancy vs 52.8% last year). Slashing rates now would dilute ADR and cause early, cheap sell-outs.
 - **What to look at instead:** Weekly pickup velocity, date-level demand spikes, and achieved ADR.
 
 ---
